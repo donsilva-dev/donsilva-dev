@@ -44,8 +44,8 @@ uglas-nunes-silva-b70737188/" target="_blank"><img src="https://img.shields.io/b
 ⭐ Status GitHub ⭐
 </p>
   <a href="https://github.com/donsilva-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=donsilva-dev&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donsilva-dev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=donsilva-dev&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donsilva-dev&layout=compact&langs_count=7&theme=dracula"/>
   
 ---
  
