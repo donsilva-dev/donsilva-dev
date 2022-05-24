@@ -48,4 +48,4 @@ uglas-nunes-silva-b70737188/" target="_blank"><img src="https://img.shields.io/b
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donsilva-dev&layout=compact&langs_count=7&theme=dracula"/>
   
 ---
-  
+   ![Snake animation](https://github.com/donsilva-dev/donsilva-dev/blob/output/github-contribution-grid-snake.svg)
