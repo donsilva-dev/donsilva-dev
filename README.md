@@ -1,4 +1,4 @@
-<h2 align="left"> Sejam bem vindos ao meu Git :octocat:</h2>
+<h1 align="left"> Sejam bem vindos ao meu Git :octocat:</h1>
 
 <p align="left"><strong><i>
 Busco contribuir de maneira significativa a partir
